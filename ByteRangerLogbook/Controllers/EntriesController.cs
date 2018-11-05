@@ -10,6 +10,8 @@ using Newtonsoft.Json;
 
 namespace ByteRangerLogbook.Controllers
 {
+    // Just adding a comment here
+
     [Route("api/[controller]")]
     public class EntriesController : Controller
     {
