@@ -1,0 +1,11 @@
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\bin\Debug\netcoreapp2.0\ByteRangerLogbook.deps.json
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\bin\Debug\netcoreapp2.0\ByteRangerLogbook.runtimeconfig.json
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\bin\Debug\netcoreapp2.0\ByteRangerLogbook.runtimeconfig.dev.json
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\bin\Debug\netcoreapp2.0\ByteRangerLogbook.dll
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\bin\Debug\netcoreapp2.0\ByteRangerLogbook.pdb
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\obj\Debug\netcoreapp2.0\ByteRangerLogbook.csprojAssemblyReference.cache
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\obj\Debug\netcoreapp2.0\ByteRangerLogbook.csproj.CoreCompileInputs.cache
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\obj\Debug\netcoreapp2.0\ByteRangerLogbook.AssemblyInfoInputs.cache
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\obj\Debug\netcoreapp2.0\ByteRangerLogbook.AssemblyInfo.cs
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\obj\Debug\netcoreapp2.0\ByteRangerLogbook.dll
+c:\users\brent\source\repos\ByteRangerLogbook\ByteRangerLogbook\obj\Debug\netcoreapp2.0\ByteRangerLogbook.pdb
